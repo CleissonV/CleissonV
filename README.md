@@ -4,7 +4,7 @@
 
 ### Um pouco sobre mim
 <ul>
-<li> <p> Eu sou aspirante a Desenvolvedor Front-end, e sou entusiasta das melhores ferramentas de desenvolvimento web e mobile.</p></li>
+<li> <p> Eu sou aspirante a Desenvolvedor Front-end, e sou entusiasta das melhores ferramentas de desenvolvimento web e mobile, me dedicando a cada dia mais a progredir nesse mundo para conquistar meu primeiro emprego na área.</p></li>
 <li><p> Pouco a pouco conquistarei meus objetivos no mundo do Desenvolvimento tanto web como mobile.</p></li>
   </ul>
 
