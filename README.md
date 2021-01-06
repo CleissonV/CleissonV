@@ -12,4 +12,4 @@
 
 💼 Tools: Visual Studio Code, PhotoShop, AdobeXD, Git e GitHub.
 
-![GitHub Logo](https://t4.ftcdn.net/jpg/02/24/55/09/240_F_224550946_XQ4hhal8y8P3jHKTcQl9CzERTw5CKJHh.jpg) <p> Bora codar?:v::computer:</p> 
+ <p> Bora codar?:v::computer:</p> 
