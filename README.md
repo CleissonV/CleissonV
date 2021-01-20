@@ -8,8 +8,8 @@
 <li><p> No momento estou cursando Análise e Desenvolvimento de Sistemas na FATEC de Ourinhos, e me especializando em front-end  com cursos da plataforma de cursos online da  Udemy</p></li>
   </ul>
 
-:pencil2: Skills: HTML5, CSS3, JavaScript, C e C++, Scrum.
+:pencil2: Skills: HTML5, CSS3, JavaScript, C e C++, Scrum, SQL.
 
-💼 Tools: Visual Studio Code, PhotoShop, AdobeXD, Git e GitHub.
+💼 Tools: Visual Studio Code, PhotoShop, AdobeXD, Git e GitHub, MySQL.
 
  <p> Bora codar?:v::computer:</p> 
