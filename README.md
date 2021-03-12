@@ -4,7 +4,7 @@
 
 ### Um pouco sobre mim
 <ul>
-<li> <p> Eu sou aspirante a Desenvolvedor Front-end, e sou entusiasta das melhores ferramentas de desenvolvimento web e mobile, me dedicando a cada dia mais a progredir nesse mundo para conquistar meu primeiro emprego na área.</p></li>
+<li> <p> Eu sou aspirante a Desenvolvedor Front-end, e sou entusiasta das melhores ferramentas de desenvolvimento web e mobile, me dedicando a cada dia mais a progredir nesse mundo para crescer na área</p></li>
 <li><p> No momento estou cursando Análise e Desenvolvimento de Sistemas na FATEC de Ourinhos, e me especializando em front-end  com cursos da plataforma de cursos online da  Udemy</p></li>
   </ul>
 
