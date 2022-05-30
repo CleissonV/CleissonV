@@ -4,11 +4,11 @@
 
 ### Um pouco sobre mim
 <ul>
-<li> <p> Eu sou Desenvolvedor Front-end Jr, e sou entusiasta das melhores ferramentas de desenvolvimento web e mobile, me dedicando a cada dia mais a progredir nesse mundo para crescer na área</p></li>
-<li><p> No momento estou cursando Análise e Desenvolvimento de Sistemas na FATEC de Ourinhos, e me especializando em front-end  com cursos da plataforma de cursos online da  Udemy</p></li>
+<li> <p> Sou Desenvolvedor Front-end , e sou entusiasta das melhores ferramentas de desenvolvimento web e mobile, me dedicando a cada dia mais a progredir nesse mundo para crescer na área</p></li>
+<li><p>Formado em  Análise e Desenvolvimento de Sistemas pela FATEC de Ourinhos, e sigo me especializando Front-end</p></li>
   </ul>
 
-:pencil2: Skills: HTML5, CSS3, JavaScript, C e C++, Scrum, SQL.
+:pencil2: Skills: JavaScript | HTML | CSS | React.js | Vue.js | SASS | PHP | SQL | WordPress
 
 💼 Tools: Visual Studio Code, PhotoShop, AdobeXD, Git e GitHub, MySQL.
 
