@@ -4,7 +4,7 @@
 
 ### Um pouco sobre mim
 <ul>
-<li> <p> Sou entusiasta das melhores ferramentas de desenvolvimento web e mobile, me dedicando a cada dia mais a progredir nesse mundo para crescer na área</p></li>
+<li> <p> Sou entusiasta das melhores ferramentas de desenvolvimento web e mobile, me dedicando a cada dia mais a progredir nesse mundo.</p></li>
 <li><p>Formado em  Análise e Desenvolvimento de Sistemas pela FATEC de Ourinhos, e sigo me especializando</p></li>
   </ul>
 
