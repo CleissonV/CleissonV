@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou entusiasta das melhores ferramentas de desenvolvimento web e mobile, me dedicando a cada dia mais a progredir nesse mundo.<br>Formado em Análise e Desenvolvimento de Sistemas pela FATEC de Ourinhos, e sigo me especializando.<br>Atualmente trabalho como Desenvolvedor Web trabalhando tanto no front como no back-end porém com foco no front.<br>Bora codar?✌️💻
+Sou entusiasta das melhores ferramentas de desenvolvimento web e mobile, me dedicando a cada dia mais a progredir nesse mundo.<br>Formado em Análise e Desenvolvimento de Sistemas, sigo me especializando.<br>Atualmente trabalho como Desenvolvedor Web trabalhando tanto no front como no back-end porém com foco no front.<br>Bora codar?✌️💻
 
 
 ## 🌐 Socials:
