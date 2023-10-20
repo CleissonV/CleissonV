@@ -1,5 +1,9 @@
 # 💫 About Me:
-Sou entusiasta das melhores ferramentas de desenvolvimento web e mobile, me dedicando a cada dia mais a progredir nesse mundo.<br>Formado em Análise e Desenvolvimento de Sistemas, sigo me especializando.<br>Atualmente trabalho como Desenvolvedor Web trabalhando tanto no front como no back-end porém com foco no front.<br>Bora codar?✌️💻
+Tendo construído minha carreira nos últimos 3 anos como Desenvolvedor Web, e com mais de 500 sites ja feitos pela ultima empresa em que trabalhei, mergulhei de cabeça no mundo do desenvolvimento web, dominando ferramentas essenciais como HTML, CSS e JavaScript,PHP. Minha jornada incluiu a exploração de frameworks modernos como Vue.js e React.js, bem como a otimização de fluxos de trabalho usando Node.js, NPM, Gulp e Sass. Minha paixão por tecnologia me levou a expandir meu horizonte e agora estou trilhando um novo caminho como Programador Back-End.
+
+Atualmente, atuo como freelancer e estou imerso no universo do desenvolvimento Java, estou me dedicando a aprender as nuances do Spring Boot para criar aplicações robustas e eficientes. Além disso, estou explorando a orquestração de contêineres e a escalabilidade de aplicações com Kubernetes, enquanto aprofundo meus conhecimentos em gerenciamento de contêineres usando Docker.
+
+Estou animado com essa nova fase da minha carreira, onde posso combinar minha experiência em front-end com as novas habilidades em back-end para criar soluções tecnológicas abrangentes e impactantes. Se você compartilha da mesma paixão por inovação e desenvolvimento de software, ficarei feliz em me conectar e trocar experiências.<br>Bora codar?✌️💻
 
 
 ## 🌐 Socials:
