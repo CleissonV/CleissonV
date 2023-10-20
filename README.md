@@ -3,7 +3,7 @@ Tendo construído minha carreira nos últimos 3 anos como Desenvolvedor Web, e c
 
 Atualmente, atuo como freelancer e estou imerso no universo do desenvolvimento Java, estou me dedicando a aprender as nuances do Spring Boot para criar aplicações robustas e eficientes. Além disso, estou explorando a orquestração de contêineres e a escalabilidade de aplicações com Kubernetes, enquanto aprofundo meus conhecimentos em gerenciamento de contêineres usando Docker.
 
-Estou animado com essa nova fase da minha carreira, onde posso combinar minha experiência em front-end com as novas habilidades em back-end para criar soluções tecnológicas abrangentes e impactantes. Se você compartilha da mesma paixão por inovação e desenvolvimento de software, ficarei feliz em me conectar e trocar experiências.<br>Bora codar?✌️💻
+Estou animado com essa nova fase da minha carreira, onde posso combinar minha experiência em front-end com as novas habilidades em back-end para criar soluções tecnológicas abrangentes e impactantes. <br>Bora codar?✌️💻
 
 
 ## 🌐 Socials:
