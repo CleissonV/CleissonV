@@ -1,27 +1,147 @@
-# 💫 About Me:
-Tendo construído minha carreira nos últimos 3 anos como Desenvolvedor Web, e com mais de 500 sites ja feitos pela ultima empresa em que trabalhei, mergulhei de cabeça no mundo do desenvolvimento web, dominando ferramentas essenciais como HTML, CSS e JavaScript,PHP. Minha jornada incluiu a exploração de frameworks modernos como Vue.js e React.js, bem como a otimização de fluxos de trabalho usando Node.js, NPM, Gulp e Sass. Minha paixão por tecnologia me levou a expandir meu horizonte e agora estou trilhando um novo caminho como Programador Back-End.
+# 👋 Olá, eu sou o Cleisson Vilela
 
-Atualmente, atuo como freelancer e estou imerso no universo do desenvolvimento Java, estou me dedicando a aprender as nuances do Spring Boot para criar aplicações robustas e eficientes. Além disso, estou explorando a orquestração de contêineres e a escalabilidade de aplicações com Kubernetes, enquanto aprofundo meus conhecimentos em gerenciamento de contêineres usando Docker.
+## 💫 Sobre mim
 
-Estou animado com essa nova fase da minha carreira, onde posso combinar minha experiência em front-end com as novas habilidades em back-end para criar soluções tecnológicas abrangentes e impactantes. <br>Bora codar?✌️💻
+Sou **Desenvolvedor Full Stack** com mais de 3 anos de experiência em desenvolvimento web, atuando na criação de aplicações, sistemas administrativos, APIs REST, interfaces responsivas e soluções digitais com foco em performance, organização e escalabilidade.
 
+Minha stack principal atualmente é baseada em **JavaScript/TypeScript**, trabalhando com tecnologias como **React.js, Next.js, Node.js, Express, NestJS, Prisma ORM, PostgreSQL, Docker, React Query, Redux Toolkit e Material UI**.
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/cleisson.vileladasilva) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/clei_vilela) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cleisson-vilela) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20912511) 
+Ao longo da minha trajetória, também tive forte contato com desenvolvimento de sites e páginas utilizando **HTML, CSS, JavaScript, PHP, WordPress, plugins, widgets, shortcodes, Sass e Gulp**, participando de projetos voltados à construção e manutenção de páginas institucionais, landing pages e interfaces web.
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=CleissonV&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=CleissonV&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CleissonV&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Atualmente, venho aprofundando minha atuação em aplicações full stack, arquitetura em camadas, autenticação JWT, controle de permissões, integrações com APIs, upload de arquivos, WebSocket, banco de dados e desenvolvimento de produtos digitais.
+
+Também estou construindo projetos próprios, incluindo um **SaaS de agendamento para profissionais da beleza**, com foco em agenda, serviços, clientes, horários disponíveis, link público de agendamento e prevenção de conflitos de reserva.
+
+Meu objetivo é evoluir constantemente como desenvolvedor, criando soluções úteis, bem estruturadas e que gerem impacto real para usuários e negócios.
+
+<br>
+
+## 🚀 O que eu faço
+
+- Desenvolvimento de aplicações web com **React.js, Next.js e TypeScript**
+- Criação e manutenção de **APIs REST** com Node.js, Express e NestJS
+- Modelagem e integração com banco de dados usando **Prisma ORM e PostgreSQL**
+- Desenvolvimento de sistemas administrativos, dashboards e fluxos internos
+- Construção de interfaces responsivas com **HTML, CSS, Material UI e Tailwind**
+- Consumo e integração com APIs
+- Autenticação, permissões e controle de acesso
+- Organização de projetos com arquitetura em camadas
+- Otimização de código, manutenção evolutiva e correção de bugs
+- Desenvolvimento de landing pages e páginas focadas em conversão
+
+<br>
+
+## 💻 Tech Stack
+
+### Front-end
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+### Back-end
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Mobile, CMS e ferramentas
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
+
+<br>
+
+## 🧠 Atualmente estudando e praticando
+
+- Arquitetura de software
+- Clean Code
+- Testes automatizados
+- Performance web
+- SEO técnico
+- Desenvolvimento de SaaS
+- React Native com Expo
+- Docker e ambientes de desenvolvimento
+- Boas práticas com APIs REST
+- IA aplicada ao desenvolvimento
+
+<br>
+
+## 🧩 Projetos e experiências recentes
+
+### SaaS de Agendamento para Profissionais da Beleza
+
+Projeto próprio voltado para profissionais como barbeiros, cabeleireiros, manicures e autônomos que trabalham com horários marcados.
+
+Funcionalidades principais:
+
+- Cadastro de profissionais, serviços e clientes
+- Link público de agendamento
+- Controle de agenda e horários disponíveis
+- Prevenção de dois agendamentos no mesmo horário
+- Histórico de clientes e atendimentos
+- Estrutura preparada para notificações via WhatsApp
+- Backend com Node.js, Express, TypeScript, Prisma e PostgreSQL
+- Estrutura planejada para app mobile com React Native e Expo
+
+### Sistemas Administrativos e Plataforma de Leilões
+
+Atuação em sistemas com regras de negócio complexas, envolvendo módulos administrativos, usuários, permissões, veículos, lotes, lances e integrações.
+
+Principais pontos trabalhados:
+
+- Interfaces com React.js, TypeScript e Material UI
+- APIs REST com Node.js, Express e Prisma
+- Arquitetura em camadas com controller, service e repository
+- React Query para cache e sincronização de dados
+- Redux Toolkit para gerenciamento de estado
+- WebSocket para atualizações em tempo real
+- PostgreSQL como banco de dados
+- Controle de permissões e autenticação
+
+<br>
+
+## 🌐 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cleisson_Vilela-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cleisson-vilela)
+[![GitHub](https://img.shields.io/badge/GitHub-CleissonV-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CleissonV)
+[![Instagram](https://img.shields.io/badge/Instagram-clei__vilela-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/clei_vilela)
+
+<br>
+
+## 📊 GitHub Stats
+
+![Cleisson GitHub stats](https://github-readme-stats.vercel.app/api?username=CleissonV&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CleissonV&theme=dracula&hide_border=false)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CleissonV&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<br>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=CleissonV&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=CleissonV&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-[![](https://visitcount.itsvg.in/api?id=CleissonV&icon=0&color=11)](https://visitcount.itsvg.in)
+<br>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ✍️ Dev Quote
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<br>
+
+![Profile views](https://visitcount.itsvg.in/api?id=CleissonV&icon=0&color=11)
+
+---
+
+### Bora codar? ✌️💻
