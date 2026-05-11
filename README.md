@@ -2,7 +2,7 @@
 
 ## 💫 Sobre mim
 
-Sou **Desenvolvedor Full Stack** com mais de 3 anos de experiência em desenvolvimento web, atuando na criação de aplicações, sistemas administrativos, APIs REST, interfaces responsivas e soluções digitais com foco em performance, organização e escalabilidade.
+Sou **Desenvolvedor Full Stack** com mais de 4 anos de experiência em desenvolvimento web, atuando na criação de aplicações, sistemas administrativos, APIs REST, interfaces responsivas e soluções digitais com foco em performance, organização e escalabilidade.
 
 Minha stack principal atualmente é baseada em **JavaScript/TypeScript**, trabalhando com tecnologias como **React.js, Next.js, Node.js, Express, NestJS, Prisma ORM, PostgreSQL, Docker, React Query, Redux Toolkit e Material UI**.
 
