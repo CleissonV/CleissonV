@@ -55,6 +55,7 @@ Meu objetivo é evoluir constantemente como desenvolvedor, criando soluções ú
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot_em_estudo-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![MikroORM](https://img.shields.io/badge/MikroORM-1a1a2e?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Banco de dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -73,10 +74,15 @@ Meu objetivo é evoluir constantemente como desenvolvedor, criando soluções ú
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps_em_estudo-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 
+### Game Dev (em estudo)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
+
 <br>
 
 ## 🧠 Atualmente estudando e praticando
 
+- 🎮 **Unity** e **C#** para desenvolvimento de jogos (game dev) nas horas vagas
 - **Java 11/17** e fundamentos do ecossistema Java
 - **Spring Boot** para criação de APIs RESTful
 - **Angular 8+** com TypeScript
@@ -138,6 +144,14 @@ Tópicos praticados:
 - Conceitos de testes unitários
 - Angular com TypeScript para interfaces web
 - Boas práticas de Git, documentação e code review
+
+### 🎮 Game Dev — Projetos de estudo
+
+Nas horas vagas estudo desenvolvimento de jogos com **Unity** e **C#**, além de projetos web voltados a games.
+
+- Estudos práticos de **Unity** e **C#** (mecânicas, física e lógica de jogo)
+- Projetos próprios como o **Jogo Mata Mosca** e o **NLW eSports** (plataforma para encontrar duos em jogos)
+- Aplicação de lógica de programação, estruturação de código e resolução de problemas em um contexto diferente do desenvolvimento web
 
 <br>
 
