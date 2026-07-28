@@ -10,7 +10,7 @@ Ao longo da minha trajetória, também tive contato com desenvolvimento de sites
 
 Atualmente, além da minha experiência prática com o ecossistema JavaScript/TypeScript, venho estudando e praticando tecnologias voltadas ao ecossistema **Java e Mobile**, incluindo **Java 11/17, Spring Boot, Angular 8+ com TypeScript, SQL Server, Oracle/PLSQL, testes unitários, CI/CD e Azure DevOps**.
 
-Também tenho conhecimento em **C#**, SQL e lógica de programação, com interesse em atuar em projetos que envolvam sustentação, manutenção evolutiva, correção de bugs, desenvolvimento de novas funcionalidades e integração entre sistemas.
+Nas horas vagas, estudo desenvolvimento de jogos com Unreal e C++, explorando lógica de jogo, física e design de sistemas interativos — uma forma de aprofundar meu domínio de C++ e do pensamento orientado a objetos.
 
 Meu objetivo é evoluir constantemente como desenvolvedor, criando soluções úteis, bem estruturadas e que gerem impacto real para usuários e negócios.
 
