@@ -75,14 +75,14 @@ Meu objetivo é evoluir constantemente como desenvolvedor, criando soluções ú
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 
 ### Game Dev (em estudo)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
+![Unreal](https://img.shields.io/badge/Unreal-100000?style=for-the-badge&logo=unity&logoColor=white)
+![C++](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c++&logoColor=white)
 
 <br>
 
 ## 🧠 Atualmente estudando e praticando
 
-- 🎮 **Unity** e **C#** para desenvolvimento de jogos (game dev) nas horas vagas
+- 🎮 **Unreal** e **C++** para desenvolvimento de jogos (game dev) nas horas vagas
 - **Java 11/17** e fundamentos do ecossistema Java
 - **Spring Boot** para criação de APIs RESTful
 - **Angular 8+** com TypeScript
