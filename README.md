@@ -75,8 +75,8 @@ Meu objetivo é evoluir constantemente como desenvolvedor, criando soluções ú
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 
 ### Game Dev (em estudo)
-![Unreal](https://img.shields.io/badge/Unreal-100000?style=for-the-badge&logo=unity&logoColor=white)
-![C++](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c++&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 <br>
 
